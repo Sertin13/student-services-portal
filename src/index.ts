@@ -101,7 +101,6 @@ processStudentData(validStudent);
 processStudentData(invalidIdStudent);
 processStudentData(missingNameStudent);
 
-
 // Part 18 – Student status formatter
 
 type StudentStatus = "active" | "inactive";
